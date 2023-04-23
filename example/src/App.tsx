@@ -1,7 +1,7 @@
 import React from 'react'
-import { Beliy } from 'huypui-icons'
+import { Article } from 'huypui-icons'
 const App = () => {
-  return <Beliy />
+  return <Article />
 }
 
 export default App
